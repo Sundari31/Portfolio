@@ -87,7 +87,7 @@ const Certificates = () => {
                              shadow-lg border border-[#D4AF37]/20 hover:border-[#D4AF37]/60 
                              transition-all duration-300"
                 >
-                  <h3 className="text-2xl font-semibold text-[#D4AF37] mb-2">
+                  <h3 className="text-xl font-semibold text-[#D4AF37] mb-2">
                     {cert.title}
                   </h3>
                   <p className="text-gray-300 font-medium">{cert.issuer}</p>
