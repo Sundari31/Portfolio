@@ -18,7 +18,7 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 - JavaScript – Functionality
 - Web3Forms – Contact form handling
 
-# 📸 Sections Included
+## 📸 Sections Included
 - 🏠 Home
 - 👩‍💻 About Me
 - 🛠️ Skills
@@ -46,6 +46,6 @@ cd Portfolio
 ## 📬 Contact Me
 If you'd like to work with me or have any opportunities:
 
--📧 Email: sundarimuthaiah2004@gmail.com
--💼 LinkedIn: https://www.linkedin.com/in/sundari-m/
--🌐 Portfolio: https://portfolio-lake-eta-29.vercel.app/
+- 📧 Email: sundarimuthaiah2004@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sundari-m/
+- 🌐 Portfolio: https://portfolio-lake-eta-29.vercel.app/
