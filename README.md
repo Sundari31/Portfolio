@@ -28,24 +28,24 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 To run this project locally:
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/Sundari31/Portfolio.git
 
-# Navigate to the folder
+## Navigate to the folder
 cd Portfolio
 
-# Open index.html in browser
+## Open index.html in browser
 📌 Purpose
 
-# This portfolio is built to:
+## This portfolio is built to:
 - Showcase my frontend development skills
 - Highlight real-world projects
 - Help recruiters easily evaluate my work
 - Provide a professional online presence
 
-#  📬 Contact Me
+## 📬 Contact Me
 If you'd like to work with me or have any opportunities:
 
-📧 Email: sundarimuthaiah2004@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/sundari-m/
-🌐 Portfolio: https://portfolio-lake-eta-29.vercel.app/
+-📧 Email: sundarimuthaiah2004@gmail.com
+-💼 LinkedIn: https://www.linkedin.com/in/sundari-m/
+-🌐 Portfolio: https://portfolio-lake-eta-29.vercel.app/
