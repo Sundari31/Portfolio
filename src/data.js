@@ -13,8 +13,16 @@ export const SKILLS = [
 ]
 
 export const PROJECTS = [
-  {
+   {
     id: 1,
+    title: 'FinTrack – Personal Finance Dashboard',
+    description: 'FinTrack is a responsive personal finance dashboard that helps users track income, expenses, and spending patterns through interactive charts and categorized insights.',
+    tags: ['React', 'JavaScript', 'TailwindCSS', 'Zustand', 'LocalStorage'],
+    link: 'https://github.com/Sundari31/Movie-App',
+    github: 'https://github.com/Sundari31/Stylecart',
+  },
+  {
+    id: 2,
     title: 'StyleCart – E-commerce Website',
     description: 'A modern e-commerce web application with a clean and responsive UI for seamless shopping experience.',
     tags: ['React', 'JavaScript', 'TailwindCSS'],
@@ -22,7 +30,7 @@ export const PROJECTS = [
     github: 'https://github.com/Sundari31/Stylecart',
   },
   {
-    id: 2,
+    id: 3,
     title: 'Task Management App',
     description: 'A productivity-focused task management application to organize daily activities efficiently.',
     tags: ['React', 'LocalStorage', 'TailwindCSS'],
@@ -30,7 +38,7 @@ export const PROJECTS = [
     github: 'https://github.com/Sundari31/Task-Management',
   },
   {
-    id: 3,
+    id: 4,
     title: 'Weather App',
     description: 'A real-time weather application that displays weather conditions based on user input.',
     tags: ['React', 'Weather API'],
@@ -38,7 +46,7 @@ export const PROJECTS = [
     github: 'https://github.com/Sundari31/Weather-Report',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Movie App',
     description: 'A movie browsing app that fetches real-time data from an API and displays trending movies.',
     tags: ['React', 'Tailwind CSS', 'REST API'],
@@ -46,7 +54,7 @@ export const PROJECTS = [
     github: 'https://github.com/Sundari31/Movie-App',
   },
   {
-    id: 5,
+    id: 6,
     title: 'Apple Clone Website',
     description: 'A pixel-perfect clone of Apple’s website showcasing strong UI/UX and layout skills.',
     tags: ['HTML', 'CSS', 'JavaScript'],
