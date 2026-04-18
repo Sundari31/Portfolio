@@ -18,8 +18,8 @@ export const PROJECTS = [
     title: 'FinTrack – Personal Finance Dashboard',
     description: 'FinTrack is a responsive personal finance dashboard that helps users track income, expenses, and spending patterns through interactive charts and categorized insights.',
     tags: ['React', 'JavaScript', 'TailwindCSS', 'Zustand', 'LocalStorage'],
-    link: 'https://github.com/Sundari31/Movie-App',
-    github: 'https://github.com/Sundari31/Stylecart',
+    link: 'https://finance-dashboard-beta-inky.vercel.app/',
+    github: 'https://github.com/Sundari31/Finance-dashboard',
   },
   {
     id: 2,
